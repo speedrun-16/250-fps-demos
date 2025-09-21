@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "255c5233bcbb8ec2c9120bbdcdec201f365ce7e911b965bfecd0805c4f818b60",
+    "uid": "LPHI3ORXX",
+    "map": "speedrun_r3x_final",
+    "category": 4,
+    "time": 12171,
+    "playerSteamId": "STEAM_0:0:1181305",
+    "timestamp": "2025-09-21T14:32:54.000Z",
+    "zipFilename": "00012171_STEAM_0_0_1181305_20250921-143254.zip",
+    "path": "speedrun_r3x_final/00012171_STEAM_0_0_1181305_20250921-143254.zip",
+    "archivedAt": "2025-09-21T15:00:05.722Z"
+  },
+  {
     "demFileHash": "b0234aa1128288edeac204a0d8b0e0d163e6ca279eb31711eafee5ad80d85c05",
     "uid": "2DB64MDHW",
     "map": "speedrun_euphoria",
