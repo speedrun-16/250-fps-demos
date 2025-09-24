@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e58d34f9180b41ec3d6b4d4ad6bff7fdf1399beffc2f2e4988c541a68748f73a",
+    "uid": "SFPKAD17K",
+    "map": "speedrun_error",
+    "category": 4,
+    "time": 7556,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-23T18:30:03.000Z",
+    "zipFilename": "00007556_STEAM_0_1_771348382_20250923-183003.zip",
+    "path": "speedrun_error/00007556_STEAM_0_1_771348382_20250923-183003.zip",
+    "archivedAt": "2025-09-24T00:00:10.619Z"
+  },
+  {
     "demFileHash": "255c5233bcbb8ec2c9120bbdcdec201f365ce7e911b965bfecd0805c4f818b60",
     "uid": "LPHI3ORXX",
     "map": "speedrun_r3x_final",
