@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "970e2f9c16656b4d2ea84898a1a3f5b2fbd392042caf5a0d0709419a79afa709",
+    "uid": "2DF54HM2K",
+    "map": "speedrun_jeans_short",
+    "category": 4,
+    "time": 8551,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-10-08T09:54:46.000Z",
+    "zipFilename": "00008551_STEAM_0_1_771348382_20251008-095446.zip",
+    "path": "speedrun_jeans_short/00008551_STEAM_0_1_771348382_20251008-095446.zip",
+    "archivedAt": "2025-10-08T12:00:05.751Z"
+  },
+  {
     "demFileHash": "7027ed3c52458d33b1f4c35c812ecc629b197a64e054662504fdd87e0bd882c8",
     "uid": "MOQVRRF8M",
     "map": "speedrun_euphoria",
