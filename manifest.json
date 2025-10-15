@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "da7b6b5249c6922dd4c6c070169a62a655e4b9e017ac84f1edde1a1597d447a0",
+    "uid": "FAYOS89YG",
+    "map": "speedrun_chemical",
+    "category": 4,
+    "time": 8920,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-14T18:52:48.000Z",
+    "zipFilename": "00008920_STEAM_0_0_35544084_20251014-185248.zip",
+    "path": "speedrun_chemical/00008920_STEAM_0_0_35544084_20251014-185248.zip",
+    "archivedAt": "2025-10-15T00:00:03.508Z"
+  },
+  {
     "demFileHash": "970e2f9c16656b4d2ea84898a1a3f5b2fbd392042caf5a0d0709419a79afa709",
     "uid": "2DF54HM2K",
     "map": "speedrun_jeans_short",
