@@ -7,6 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-09-29 |
+| [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-10-14 |
 | [speedrun_error](./speedrun_error) | 1 | 2025-09-23 |
 | [speedrun_euphoria](./speedrun_euphoria) | 2 | 2025-10-05 |
@@ -20,5 +21,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **10**
-- Total Demos: **14**
+- Total Maps: **11**
+- Total Demos: **16**
