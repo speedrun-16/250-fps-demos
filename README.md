@@ -18,9 +18,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-09-16 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-09-21 |
+| [speedrun_runners](./speedrun_runners) | 1 | 2025-10-21 |
 
 ---
 
 ### Statistics
-- Total Maps: **12**
-- Total Demos: **19**
+- Total Maps: **13**
+- Total Demos: **20**
