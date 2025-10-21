@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "ce6388ee3914bcfc58407c0282134e12edba73c971b77b37c31511401cfe6426",
+    "uid": "HU7066RV9",
+    "map": "de_dust2",
+    "category": 4,
+    "time": 6317,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-10-20T23:11:26.000Z",
+    "zipFilename": "00006317_STEAM_0_1_771348382_20251020-231126.zip",
+    "path": "de_dust2/00006317_STEAM_0_1_771348382_20251020-231126.zip",
+    "archivedAt": "2025-10-21T00:00:03.517Z"
+  },
+  {
+    "demFileHash": "c946843613993b4f38be0070b787bbab03127a90fa21bc68d0b41a245291ae8a",
+    "uid": "A3TWPCPCE",
+    "map": "de_dust2",
+    "category": 4,
+    "time": 6581,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-20T23:19:24.000Z",
+    "zipFilename": "00006581_STEAM_0_1_29970948_20251020-231924.zip",
+    "path": "de_dust2/00006581_STEAM_0_1_29970948_20251020-231924.zip",
+    "archivedAt": "2025-10-21T00:00:03.517Z"
+  },
+  {
     "demFileHash": "46870dc5412c774d966867a624417bb4527a23ada20ab303e659c8d9c1d144a2",
     "uid": "8NRWHJU25",
     "map": "speedrun_chemical",
