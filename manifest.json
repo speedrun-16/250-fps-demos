@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "5f5832259cf35813d8ad2f6302e48bd3b677122ddf4bc740c39f14e8980236ac",
+    "uid": "653E2UY89",
+    "map": "speedrun_garden",
+    "category": 4,
+    "time": 10325,
+    "playerSteamId": "STEAM_0:1:535182532",
+    "timestamp": "2025-10-23T17:13:18.000Z",
+    "zipFilename": "00010325_STEAM_0_1_535182532_20251023-171318.zip",
+    "path": "speedrun_garden/00010325_STEAM_0_1_535182532_20251023-171318.zip",
+    "archivedAt": "2025-10-23T18:00:17.544Z"
+  },
+  {
     "demFileHash": "e31b5dda456f031d9d77200c48fc88fbf6918d6b97d0bbedf5ef68f45e6250f1",
     "uid": "NWEN0ZFLX",
     "map": "speedrun_runners",
