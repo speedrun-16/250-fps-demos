@@ -21,10 +21,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_r3x_final](./speedrun_r3x_final) | 2 | 2025-10-26 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2025-10-21 |
 | [speedrun_sunnies](./speedrun_sunnies) | 1 | 2025-10-25 |
+| [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-11-04 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-10-25 |
 
 ---
 
 ### Statistics
-- Total Maps: **16**
-- Total Demos: **24**
+- Total Maps: **17**
+- Total Demos: **25**
