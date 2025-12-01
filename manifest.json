@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "cf5f5f107862042ba47e5320700dcc2a1d90f587187afca3863cc1c358008c52",
+    "uid": "90W978Z38",
+    "map": "speedrun_solitude",
+    "category": 4,
+    "time": 24433,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-12-01T08:19:29.000Z",
+    "zipFilename": "00024433_STEAM_0_1_29970948_20251201-081929.zip",
+    "path": "speedrun_solitude/00024433_STEAM_0_1_29970948_20251201-081929.zip",
+    "archivedAt": "2025-12-01T12:00:00.450Z"
+  },
+  {
     "demFileHash": "3a5a9ac88b237da96f9f1b6c909eeed5a83fc22dc2748c8c6ff5fada5a5bff8b",
     "uid": "0NELLQA3U",
     "map": "speedrun_1000fps_battle",
