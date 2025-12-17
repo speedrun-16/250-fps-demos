@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e12dd8c75c3ed72a11f432560fa710e0eb3d6f572ad1426dc951d1e1d1f5ea49",
+    "uid": "FRA6P4RCS",
+    "map": "speedrun_katozlandia",
+    "category": 4,
+    "time": 5644,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-12-17T09:03:50.000Z",
+    "zipFilename": "00005644_STEAM_0_0_35544084_20251217-090350.zip",
+    "path": "speedrun_katozlandia/00005644_STEAM_0_0_35544084_20251217-090350.zip",
+    "archivedAt": "2025-12-17T12:00:00.664Z"
+  },
+  {
     "demFileHash": "b9431773b201c2e4b28bc1f1f360db6d5111fbde960475ecc0da34e56211cf52",
     "uid": "FYK7KYTDZ",
     "map": "speedrun_1000fps_battle",
