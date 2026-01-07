@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "04d2abe6ad91ff4c15c1d17c1c265cface2c09d8f11c4bb7cb39ecf88ef2f475",
+    "uid": "BYN5G6D4J",
+    "map": "speedrun_dust2_kaniel",
+    "category": 4,
+    "time": 14051,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-07T14:07:19.000Z",
+    "zipFilename": "00014051_STEAM_0_0_35544084_20260107-140719.zip",
+    "path": "speedrun_dust2_kaniel/00014051_STEAM_0_0_35544084_20260107-140719.zip",
+    "archivedAt": "2026-01-07T18:00:10.853Z"
+  },
+  {
     "demFileHash": "ee1017c5f53ca4c5a061420a08196d5831385f4d49420196f55d304fbe917ddf",
     "uid": "DI3ALZ1KT",
     "map": "speedrun_calisto2k",
