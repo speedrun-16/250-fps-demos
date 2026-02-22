@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "44b772b612de4f10ade297a1c24957d318e9d1aa6bbf32f3f86b2787094a076c",
+    "uid": "5R7SG7UF3",
+    "map": "speedrun_1000fps_battle",
+    "category": 4,
+    "time": 10148,
+    "playerSteamId": "STEAM_0:0:595867988",
+    "timestamp": "2026-02-22T07:10:48.000Z",
+    "zipFilename": "00010148_STEAM_0_0_595867988_20260222-071048.zip",
+    "path": "speedrun_1000fps_battle/00010148_STEAM_0_0_595867988_20260222-071048.zip",
+    "archivedAt": "2026-02-22T12:00:09.979Z"
+  },
+  {
     "demFileHash": "2da31053a5eafa4f67ff185f2b5ffdc653cfe80b6ac0160cc62e3aa7e5d4f29d",
     "uid": "O3U0B21TB",
     "map": "deathrun_greenworld_v1",
