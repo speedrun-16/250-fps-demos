@@ -22,7 +22,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2026-04-10 |
+| [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2026-04-20 |
 | [speedrun_insanity](./speedrun_insanity) | 1 | 2025-12-08 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-10-08 |
 | [speedrun_joker1](./speedrun_joker1) | 1 | 2026-02-01 |
