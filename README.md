@@ -11,6 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2026-01-17 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 1 | 2026-02-16 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2026-04-13 |
+| [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2026-04-21 |
 | [speedrun_aztec_hd2020](./speedrun_aztec_hd2020) | 1 | 2026-02-07 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
@@ -57,5 +58,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **47**
-- Total Demos: **64**
+- Total Maps: **48**
+- Total Demos: **65**
