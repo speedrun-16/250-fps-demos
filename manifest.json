@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "128838d6d7620f6318eac80768c1592526138a2f21e9cbe5b2a32c0dc453c4b4",
+    "uid": "DOP4URD32",
+    "map": "deathrun_w00dfun",
+    "category": 4,
+    "time": 10850,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-08T19:42:56.000Z",
+    "zipFilename": "00010850_STEAM_0_1_87291981_20260508-194256.zip",
+    "path": "deathrun_w00dfun/00010850_STEAM_0_1_87291981_20260508-194256.zip",
+    "archivedAt": "2026-05-09T00:00:04.093Z"
+  },
+  {
     "demFileHash": "9c2a01bc03fb820c619780c56fea63ffab2267a22a38256bf32768ba1c5e0bb5",
     "uid": "E7BW8SKNC",
     "map": "speedrun_easy_v1",
