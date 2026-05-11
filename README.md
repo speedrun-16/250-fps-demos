@@ -62,10 +62,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
 | [speedrun_utug2](./speedrun_utug2) | 1 | 2026-01-29 |
 | [speedrun_vantara](./speedrun_vantara) | 1 | 2026-04-30 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2026-05-11 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-10-25 |
 
 ---
 
 ### Statistics
-- Total Maps: **57**
-- Total Demos: **78**
+- Total Maps: **58**
+- Total Demos: **79**
