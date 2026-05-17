@@ -7,9 +7,10 @@ This directory contains player records achieved in the **250 FPS** category for 
 | Rank | Best Time | Record Holder | Date                |
 | :--- | :-------- | :------------ | :------------------ |
 | #1   | [00:08.551](./00008551_STEAM_0_1_771348382_20251008-095446.zip) | [STEAM_0:1:771348382](https://speedrun16.com/profile/STEAM_0:1:771348382)   | 2025-10-08 09:54:46 |
+| #2   | [00:08.996](./00008996_STEAM_0_1_87291981_20260517-135013.zip) | [STEAM_0:1:87291981](https://speedrun16.com/profile/STEAM_0:1:87291981)   | 2026-05-17 13:50:13 |
 
 ---
 
 ### Record Summary
 **Record Holder:** [00:08.551](./00008551_STEAM_0_1_771348382_20251008-095446.zip) (by [STEAM_0:1:771348382](https://speedrun16.com/profile/STEAM_0:1:771348382))  
-**Total PBs Archived:** 1
+**Total PBs Archived:** 2
