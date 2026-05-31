@@ -13,6 +13,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-08 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-05-10 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2026-04-21 |
+| [speedrun_aurea](./speedrun_aurea) | 1 | 2026-05-31 |
 | [speedrun_aztec_hd2020](./speedrun_aztec_hd2020) | 1 | 2026-02-07 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
@@ -70,5 +71,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **60**
-- Total Demos: **82**
+- Total Maps: **61**
+- Total Demos: **83**
