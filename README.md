@@ -10,6 +10,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust2](./de_dust2) | 2 | 2025-10-20 |
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2026-01-17 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 1 | 2026-02-16 |
+| [deathrun_linea](./deathrun_linea) | 1 | 2026-06-04 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-08 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 9 | 2026-06-01 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2026-04-21 |
@@ -37,7 +38,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_lumina_beta1](./speedrun_lumina_beta1) | 1 | 2026-04-19 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_neocist](./speedrun_neocist) | 1 | 2025-12-04 |
-| [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
+| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 1 | 2026-05-28 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-09-16 |
@@ -59,7 +60,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tibia](./speedrun_tibia) | 1 | 2026-02-05 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-11-04 |
 | [speedrun_toni](./speedrun_toni) | 1 | 2026-05-03 |
-| [speedrun_tr](./speedrun_tr) | 2 | 2026-02-11 |
+| [speedrun_tr](./speedrun_tr) | 3 | 2026-06-04 |
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
@@ -71,5 +72,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **61**
-- Total Demos: **85**
+- Total Maps: **62**
+- Total Demos: **88**
