@@ -16,6 +16,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2026-04-21 |
 | [speedrun_aurea](./speedrun_aurea) | 1 | 2026-05-31 |
 | [speedrun_aztec_hd2020](./speedrun_aztec_hd2020) | 1 | 2026-02-07 |
+| [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-06-07 |
 | [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
 | [speedrun_chemical](./speedrun_chemical) | 3 | 2026-01-19 |
@@ -42,8 +43,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 1 | 2026-05-28 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-09-16 |
+| [speedrun_projetocs2](./speedrun_projetocs2) | 1 | 2026-06-07 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-20 |
-| [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-11-19 |
+| [speedrun_pupsik](./speedrun_pupsik) | 2 | 2026-06-07 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 2 | 2025-10-26 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
@@ -62,6 +64,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-11-04 |
 | [speedrun_toni](./speedrun_toni) | 1 | 2026-05-03 |
 | [speedrun_tr](./speedrun_tr) | 3 | 2026-06-04 |
+| [speedrun_tracer](./speedrun_tracer) | 1 | 2026-06-07 |
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
@@ -73,5 +76,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **63**
-- Total Demos: **90**
+- Total Maps: **66**
+- Total Demos: **94**

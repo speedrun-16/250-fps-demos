@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "1d0653787fa2835a3ac71a738cc093c93b38953e6aca1010a4d74331f99fea0d",
+    "uid": "GW73WRTVS",
+    "map": "speedrun_blackblue2",
+    "category": 4,
+    "time": 13807,
+    "playerSteamId": "STEAM_0:0:193002961",
+    "timestamp": "2026-06-07T13:35:04.000Z",
+    "zipFilename": "00013807_STEAM_0_0_193002961_20260607-133504.zip",
+    "path": "speedrun_blackblue2/00013807_STEAM_0_0_193002961_20260607-133504.zip",
+    "archivedAt": "2026-06-07T18:00:08.985Z"
+  },
+  {
+    "demFileHash": "a60c74fcc1cbde4d79a0aa8e1c324f22c00ffafed85cb1f7f9a28266b43279b4",
+    "uid": "CFUD2NCSJ",
+    "map": "speedrun_tracer",
+    "category": 4,
+    "time": 8026,
+    "playerSteamId": "STEAM_0:0:193002961",
+    "timestamp": "2026-06-07T12:47:29.000Z",
+    "zipFilename": "00008026_STEAM_0_0_193002961_20260607-124729.zip",
+    "path": "speedrun_tracer/00008026_STEAM_0_0_193002961_20260607-124729.zip",
+    "archivedAt": "2026-06-07T18:00:08.985Z"
+  },
+  {
+    "demFileHash": "9971b0561229fc9d255bd7f50782f048922b227a84fe7643290a91478ef633a1",
+    "uid": "S3V4LNLBK",
+    "map": "speedrun_projetocs2",
+    "category": 4,
+    "time": 15501,
+    "playerSteamId": "STEAM_0:0:193002961",
+    "timestamp": "2026-06-07T13:00:36.000Z",
+    "zipFilename": "00015501_STEAM_0_0_193002961_20260607-130036.zip",
+    "path": "speedrun_projetocs2/00015501_STEAM_0_0_193002961_20260607-130036.zip",
+    "archivedAt": "2026-06-07T18:00:08.985Z"
+  },
+  {
+    "demFileHash": "1fcf0f6dcd06e9273564310d500706f2ce83c6efb5ce6bb32a827f1930a2b77d",
+    "uid": "BPDR93414",
+    "map": "speedrun_pupsik",
+    "category": 4,
+    "time": 7610,
+    "playerSteamId": "STEAM_0:0:193002961",
+    "timestamp": "2026-06-07T12:22:15.000Z",
+    "zipFilename": "00007610_STEAM_0_0_193002961_20260607-122215.zip",
+    "path": "speedrun_pupsik/00007610_STEAM_0_0_193002961_20260607-122215.zip",
+    "archivedAt": "2026-06-07T18:00:08.985Z"
+  },
+  {
     "demFileHash": "5394a1928d07d7a32f78c556c598df550b8a36c4a0fc2f3cf0575ae73e17c81c",
     "uid": "T3RXTY7TJ",
     "map": "de_dust",
