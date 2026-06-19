@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_sunnies",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "6TFJCBJWR",
+      "rid": 11816,
+      "hash": "be8e865049bc4a3791f52f82dd033a9c7b30768ffadde933851add0c4e75eae7",
+      "t": 18381,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-10-25T14:50:29Z",
+      "zip": "00018381_STEAM_0_0_35544084_20251025-145029.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_sunnies-20251025-#6TFJCBJWR.analysis.json",
+          "off": 80,
+          "size": 571243
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_sunnies-20251025-#6TFJCBJWR.dem",
+          "off": 571393,
+          "size": 229518
+        },
+        {
+          "type": "replay",
+          "name": "11816.replay.xz",
+          "off": 800956,
+          "size": 72548
+        }
+      ]
+    }
+  ]
+}

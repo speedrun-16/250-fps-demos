@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_chemical",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "8NRWHJU25",
+      "rid": 10530,
+      "hash": "46870dc5412c774d966867a624417bb4527a23ada20ab303e659c8d9c1d144a2",
+      "t": 8204,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-19T23:33:17Z",
+      "zip": "00008204_STEAM_0_1_29970948_20251019-233317.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical-20251019-#8NRWHJU25.analysis.json",
+          "off": 81,
+          "size": 292136
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical-20251019-#8NRWHJU25.dem",
+          "off": 292288,
+          "size": 126250
+        },
+        {
+          "type": "replay",
+          "name": "10530.replay.xz",
+          "off": 418583,
+          "size": 34984
+        }
+      ]
+    },
+    {
+      "uid": "QAFIM1GBW",
+      "rid": 14492,
+      "hash": "a001523aa450fd825e2661e5442ac3775850fee5737f5fa4563c0b6e048f77ca",
+      "t": 8422,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-11-12T17:32:30Z",
+      "zip": "00008422_STEAM_0_1_84733295_20251112-173230.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical-20251112-#QAFIM1GBW.analysis.json",
+          "off": 81,
+          "size": 320551
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical-20251112-#QAFIM1GBW.dem",
+          "off": 320703,
+          "size": 132346
+        },
+        {
+          "type": "replay",
+          "name": "14492.replay.xz",
+          "off": 453094,
+          "size": 37576
+        }
+      ]
+    },
+    {
+      "uid": "DCKXBAQNH",
+      "rid": 27669,
+      "hash": "7683fdd7cb3f2da57f624485eef689a2d098ac804b046a2d9726d0a52668c3fe",
+      "t": 8761,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-19T08:13:09Z",
+      "zip": "00008761_STEAM_0_0_35544084_20260119-081309.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical-20260119-#DCKXBAQNH.analysis.json",
+          "off": 81,
+          "size": 311241
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical-20260119-#DCKXBAQNH.dem",
+          "off": 311393,
+          "size": 130011
+        },
+        {
+          "type": "replay",
+          "name": "27669.replay.xz",
+          "off": 441449,
+          "size": 36724
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_ramp-master_ex",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "YLRTHNBI6",
+      "rid": 30686,
+      "hash": "28aba2f3775b54ad156d1a8d4859581bd6397f8aac3304f12fbe6fa10060b466",
+      "t": 13303,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-29T13:31:26Z",
+      "zip": "00013303_STEAM_0_0_35544084_20260129-133126.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_ramp-master_ex-20260129-#YLRTHNBI6.analysis.json",
+          "off": 87,
+          "size": 415882
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_ramp-master_ex-20260129-#YLRTHNBI6.dem",
+          "off": 416046,
+          "size": 171400
+        },
+        {
+          "type": "replay",
+          "name": "30686.replay.xz",
+          "off": 587491,
+          "size": 53744
+        }
+      ]
+    }
+  ]
+}

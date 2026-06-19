@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_w00dfun",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "DOP4URD32",
+      "rid": 50020,
+      "hash": "128838d6d7620f6318eac80768c1592526138a2f21e9cbe5b2a32c0dc453c4b4",
+      "t": 10850,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-08T19:42:56Z",
+      "zip": "00010850_STEAM_0_1_87291981_20260508-194256.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_w00dfun-20260508-#DOP4URD32.analysis.json",
+          "off": 80,
+          "size": 352677
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_w00dfun-20260508-#DOP4URD32.dem",
+          "off": 352827,
+          "size": 136309
+        },
+        {
+          "type": "replay",
+          "name": "50020.replay.xz",
+          "off": 489181,
+          "size": 48620
+        }
+      ]
+    }
+  ]
+}

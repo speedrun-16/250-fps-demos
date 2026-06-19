@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_solitude",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "90W978Z38",
+      "rid": 18714,
+      "hash": "cf5f5f107862042ba47e5320700dcc2a1d90f587187afca3863cc1c358008c52",
+      "t": 24433,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-12-01T08:19:29Z",
+      "zip": "00024433_STEAM_0_1_29970948_20251201-081929.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_solitude-20251201-#90W978Z38.analysis.json",
+          "off": 81,
+          "size": 615866
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_solitude-20251201-#90W978Z38.dem",
+          "off": 616018,
+          "size": 278189
+        },
+        {
+          "type": "replay",
+          "name": "18714.replay.xz",
+          "off": 894252,
+          "size": 92016
+        }
+      ]
+    }
+  ]
+}

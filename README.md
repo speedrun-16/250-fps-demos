@@ -1,80 +1,23 @@
-# Category Archive: 250 FPS
+# 250 FPS Demo Archive
 
-This repository is a structured archive for personal best demos achieved in the **250 FPS** category.
+Personal best demo archive for the 250 FPS category.
 
-## Map List
+## Statistics
 
-| Map Name | Demos | Last Updated |
-| :--- | :---- | :--- |
-| [de_dust](./de_dust) | 2 | 2026-06-06 |
-| [de_dust2](./de_dust2) | 2 | 2025-10-20 |
-| [deathrun_fantasy](./deathrun_fantasy) | 1 | 2026-01-17 |
-| [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 1 | 2026-02-16 |
-| [deathrun_linea](./deathrun_linea) | 1 | 2026-06-04 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-08 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 9 | 2026-06-01 |
-| [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2026-04-21 |
-| [speedrun_aurea](./speedrun_aurea) | 1 | 2026-05-31 |
-| [speedrun_aztec_hd2020](./speedrun_aztec_hd2020) | 1 | 2026-02-07 |
-| [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-06-07 |
-| [speedrun_blue](./speedrun_blue) | 2 | 2025-10-16 |
-| [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
-| [speedrun_chemical](./speedrun_chemical) | 3 | 2026-01-19 |
-| [speedrun_Domination](./speedrun_Domination) | 1 | 2026-02-01 |
-| [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2026-01-07 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 2 | 2026-05-06 |
-| [speedrun_error](./speedrun_error) | 1 | 2025-09-23 |
-| [speedrun_euphoria](./speedrun_euphoria) | 4 | 2026-06-02 |
-| [speedrun_evidens_big](./speedrun_evidens_big) | 1 | 2026-05-17 |
-| [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-10 |
-| [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
-| [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
-| [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2026-04-20 |
-| [speedrun_insanity](./speedrun_insanity) | 1 | 2025-12-08 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 2 | 2026-05-17 |
-| [speedrun_joker1](./speedrun_joker1) | 1 | 2026-02-01 |
-| [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-12-17 |
-| [speedrun_lewc](./speedrun_lewc) | 1 | 2025-09-25 |
-| [speedrun_lumina_beta1](./speedrun_lumina_beta1) | 1 | 2026-04-19 |
-| [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
-| [speedrun_neocist](./speedrun_neocist) | 1 | 2025-12-04 |
-| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
-| [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 1 | 2026-05-28 |
-| [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-09-16 |
-| [speedrun_projetocs2](./speedrun_projetocs2) | 1 | 2026-06-07 |
-| [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-20 |
-| [speedrun_pupsik](./speedrun_pupsik) | 2 | 2026-06-07 |
-| [speedrun_r3x_final](./speedrun_r3x_final) | 2 | 2025-10-26 |
-| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
-| [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
-| [speedrun_retro_pro](./speedrun_retro_pro) | 1 | 2026-05-10 |
-| [speedrun_runners](./speedrun_runners) | 2 | 2026-05-09 |
-| [speedrun_scarlet](./speedrun_scarlet) | 1 | 2026-04-11 |
-| [speedrun_several](./speedrun_several) | 1 | 2026-05-09 |
-| [speedrun_shiny](./speedrun_shiny) | 1 | 2026-02-01 |
-| [speedrun_solitude](./speedrun_solitude) | 1 | 2025-12-01 |
-| [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
-| [speedrun_sudip](./speedrun_sudip) | 1 | 2025-11-09 |
-| [speedrun_sunnies](./speedrun_sunnies) | 1 | 2025-10-25 |
-| [speedrun_svet](./speedrun_svet) | 1 | 2026-05-06 |
-| [speedrun_swez](./speedrun_swez) | 1 | 2026-06-05 |
-| [speedrun_tibia](./speedrun_tibia) | 1 | 2026-02-05 |
-| [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-11-04 |
-| [speedrun_toni](./speedrun_toni) | 1 | 2026-05-03 |
-| [speedrun_tr](./speedrun_tr) | 3 | 2026-06-04 |
-| [speedrun_tracer](./speedrun_tracer) | 1 | 2026-06-07 |
-| [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
-| [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
-| [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2026-02-01 |
-| [speedrun_utug2](./speedrun_utug2) | 1 | 2026-01-29 |
-| [speedrun_vantara](./speedrun_vantara) | 1 | 2026-04-30 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2026-05-11 |
-| [speedrun_wex](./speedrun_wex) | 1 | 2025-10-25 |
+| Metric | Value |
+| :-- | --: |
+| Maps | 66 |
+| Archived PBs | 94 |
+| Latest Update | 2026-06-07 |
 
----
+## Structure
 
-### Statistics
-- Total Maps: **66**
-- Total Demos: **94**
+| Path | Contents |
+| :-- | :-- |
+| `manifest.json` | Repository summary and per-map manifest pointers |
+| `maps/<map>/manifest.json` | Runs archived for one map |
+| `maps/<map>/*.zip` | Demo archive files |
+
+## Access
+
+Use `manifest.json` as the entry point. Each map manifest contains archive filenames and byte ranges for files inside each zip.

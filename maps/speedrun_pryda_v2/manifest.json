@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_pryda_v2",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "ZUNDMP07P",
+      "rid": 28317,
+      "hash": "898a611c479530ab090c9b451bd3036f0b8f5516c19284832e098d792c95c9c2",
+      "t": 11108,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-20T12:39:19Z",
+      "zip": "00011108_STEAM_0_0_35544084_20260120-123919.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pryda_v2-20260120-#ZUNDMP07P.analysis.json",
+          "off": 81,
+          "size": 364606
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pryda_v2-20260120-#ZUNDMP07P.dem",
+          "off": 364758,
+          "size": 149740
+        },
+        {
+          "type": "replay",
+          "name": "28317.replay.xz",
+          "off": 514543,
+          "size": 43504
+        }
+      ]
+    }
+  ]
+}

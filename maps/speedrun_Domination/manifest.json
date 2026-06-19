@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_Domination",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "AS0SWBOWE",
+      "rid": 31677,
+      "hash": "e14823d85d77362abea9e427a143571d1f244eeaab55b79aa906eaa29af5171d",
+      "t": 14566,
+      "sid": "STEAM_0:1:499355704",
+      "at": "2026-02-01T15:34:24Z",
+      "zip": "00014566_STEAM_0_1_499355704_20260201-153424.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_Domination-20260201-#AS0SWBOWE.analysis.json",
+          "off": 83,
+          "size": 440409
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_Domination-20260201-#AS0SWBOWE.dem",
+          "off": 440565,
+          "size": 191402
+        },
+        {
+          "type": "replay",
+          "name": "31677.replay.xz",
+          "off": 632012,
+          "size": 57332
+        }
+      ]
+    }
+  ]
+}

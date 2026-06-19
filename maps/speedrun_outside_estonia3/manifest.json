@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_outside_estonia3",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "I20M7VT83",
+      "rid": 57623,
+      "hash": "bd105fb321477d6908f197ad77d211f3d744878852530358e71b948a3d546efb",
+      "t": 10760,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-28T02:11:18Z",
+      "zip": "00010760_STEAM_0_1_771348382_20260528-021118.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_outside_estonia3-20260528-#I20M7VT83.analysis.json",
+          "off": 89,
+          "size": 313346
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_outside_estonia3-20260528-#I20M7VT83.dem",
+          "off": 313514,
+          "size": 155625
+        },
+        {
+          "type": "replay",
+          "name": "57623.replay.xz",
+          "off": 469184,
+          "size": 47696
+        }
+      ]
+    }
+  ]
+}

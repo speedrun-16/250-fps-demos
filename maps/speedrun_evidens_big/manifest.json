@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_evidens_big",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "PASKZ4M6C",
+      "rid": 53635,
+      "hash": "8d2b44fb11877e8f8667550d4171f5eec1949a14fd13b4c5a8cfb5363f912e15",
+      "t": 14584,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-17T11:46:45Z",
+      "zip": "00014584_STEAM_0_1_87291981_20260517-114645.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_evidens_big-20260517-#PASKZ4M6C.analysis.json",
+          "off": 84,
+          "size": 444067
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_evidens_big-20260517-#PASKZ4M6C.dem",
+          "off": 444225,
+          "size": 156928
+        },
+        {
+          "type": "replay",
+          "name": "53635.replay.xz",
+          "off": 601198,
+          "size": 62524
+        }
+      ]
+    }
+  ]
+}

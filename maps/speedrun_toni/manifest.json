@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_toni",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "B36PIY74G",
+      "rid": 47911,
+      "hash": "734eba3c7b773a01415c2f7712a6af8b96e9716dc7d98101653ddd2fb0a22a6e",
+      "t": 12367,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-05-03T08:35:58Z",
+      "zip": "00012367_STEAM_0_0_35544084_20260503-083558.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_toni-20260503-#B36PIY74G.analysis.json",
+          "off": 77,
+          "size": 418757
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_toni-20260503-#B36PIY74G.dem",
+          "off": 418901,
+          "size": 163316
+        },
+        {
+          "type": "replay",
+          "name": "47911.replay.xz",
+          "off": 582262,
+          "size": 52560
+        }
+      ]
+    }
+  ]
+}

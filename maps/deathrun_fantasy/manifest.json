@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_fantasy",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "LIP35389R",
+      "rid": 26915,
+      "hash": "a9df80bf51056267eed9adca76a3c653ea28d630302ccc3a9877bd6a2d77c682",
+      "t": 18776,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-17T13:48:14Z",
+      "zip": "00018776_STEAM_0_0_35544084_20260117-134814.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_fantasy-20260117-#LIP35389R.analysis.json",
+          "off": 80,
+          "size": 565363
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_fantasy-20260117-#LIP35389R.dem",
+          "off": 565513,
+          "size": 232049
+        },
+        {
+          "type": "replay",
+          "name": "26915.replay.xz",
+          "off": 797607,
+          "size": 69900
+        }
+      ]
+    }
+  ]
+}

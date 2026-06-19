@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_tibia",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "XZEH7T9CD",
+      "rid": 32183,
+      "hash": "267dfc92b38193e98ba6b5525fa5743205e0bf089658ef98185ebdbf950df2aa",
+      "t": 34714,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-02-05T19:31:28Z",
+      "zip": "00034714_STEAM_0_0_35544084_20260205-193128.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_tibia-20260205-#XZEH7T9CD.analysis.json",
+          "off": 78,
+          "size": 974179
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_tibia-20260205-#XZEH7T9CD.dem",
+          "off": 974325,
+          "size": 395182
+        },
+        {
+          "type": "replay",
+          "name": "32183.replay.xz",
+          "off": 1369552,
+          "size": 126308
+        }
+      ]
+    }
+  ]
+}

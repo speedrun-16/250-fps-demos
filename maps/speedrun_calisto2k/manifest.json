@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_calisto2k",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "DI3ALZ1KT",
+      "rid": 22956,
+      "hash": "ee1017c5f53ca4c5a061420a08196d5831385f4d49420196f55d304fbe917ddf",
+      "t": 12772,
+      "sid": "STEAM_0:0:226108701",
+      "at": "2025-12-20T11:44:01Z",
+      "zip": "00012772_STEAM_0_0_226108701_20251220-114401.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_calisto2k-20251220-#DI3ALZ1KT.analysis.json",
+          "off": 82,
+          "size": 389839
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_calisto2k-20251220-#DI3ALZ1KT.dem",
+          "off": 389993,
+          "size": 157929
+        },
+        {
+          "type": "replay",
+          "name": "22956.replay.xz",
+          "off": 547967,
+          "size": 44852
+        }
+      ]
+    }
+  ]
+}

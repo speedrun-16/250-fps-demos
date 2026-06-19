@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_TN_f",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "YL1YT0HPV",
+      "rid": 13719,
+      "hash": "7184ffd882f89ee46d884bcbd8ddba5a4345bb9b6c8d7d2a7b3a664c0d973566",
+      "t": 6836,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-11-04T20:26:22Z",
+      "zip": "00006836_STEAM_0_1_84733295_20251104-202622.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_TN_f-20251104-#YL1YT0HPV.analysis.json",
+          "off": 77,
+          "size": 233058
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_TN_f-20251104-#YL1YT0HPV.dem",
+          "off": 233202,
+          "size": 114997
+        },
+        {
+          "type": "replay",
+          "name": "13719.replay.xz",
+          "off": 348244,
+          "size": 28492
+        }
+      ]
+    }
+  ]
+}

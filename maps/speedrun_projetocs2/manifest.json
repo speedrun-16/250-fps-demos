@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_projetocs2",
+  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "runs": [
+    {
+      "uid": "S3V4LNLBK",
+      "rid": 61817,
+      "hash": "9971b0561229fc9d255bd7f50782f048922b227a84fe7643290a91478ef633a1",
+      "t": 15501,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-07T13:00:36Z",
+      "zip": "00015501_STEAM_0_0_193002961_20260607-130036.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_projetocs2-20260607-#S3V4LNLBK.analysis.json",
+          "off": 83,
+          "size": 422091
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_projetocs2-20260607-#S3V4LNLBK.dem",
+          "off": 422247,
+          "size": 191480
+        },
+        {
+          "type": "replay",
+          "name": "61817.replay.xz",
+          "off": 613772,
+          "size": 62408
+        }
+      ]
+    }
+  ]
+}
