@@ -1,7 +1,36 @@
 {
   "map": "speedrun_chemical",
-  "updatedAt": "2026-06-19T05:51:10.250998Z",
+  "updatedAt": "2026-07-11T18:00:00.455Z",
   "runs": [
+    {
+      "uid": "D6KPOXUT5",
+      "rid": 69678,
+      "hash": "dd4eb1f71c102184139e66c7ec50f37cb24dbd44711c409383b975314dd36e8b",
+      "t": 7885,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-11T13:10:46.000Z",
+      "zip": "00007885_STEAM_0_0_631815948_20260711-131046.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_chemical-20260711-#D6KPOXUT5.dem",
+          "off": 71,
+          "size": 135324
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical-20260711-#D6KPOXUT5.analysis.json",
+          "off": 135476,
+          "size": 274276
+        },
+        {
+          "type": "replay",
+          "name": "69678.replay.xz",
+          "off": 409797,
+          "size": 33836
+        }
+      ]
+    },
     {
       "uid": "8NRWHJU25",
       "rid": 10530,

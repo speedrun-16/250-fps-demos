@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-07-11T12:00:06.166Z",
+  "updatedAt": "2026-07-11T18:00:00.455Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -370,9 +370,9 @@
       "manifest": "maps/deathrun_fantasy/manifest.json"
     },
     "speedrun_chemical": {
-      "n": 3,
-      "best": 8204,
-      "at": "2026-01-19T08:13:09Z",
+      "n": 4,
+      "best": 7885,
+      "at": "2026-07-11T13:10:46.000Z",
       "manifest": "maps/speedrun_chemical/manifest.json"
     },
     "speedrun_euphoria": {
