@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-07-11T18:00:00.455Z",
+  "updatedAt": "2026-07-13T18:00:00.558Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -170,6 +170,12 @@
       "best": 13821,
       "at": "2025-11-19T17:45:47Z",
       "manifest": "maps/speedrun_mnogostrafe2/manifest.json"
+    },
+    "speedrun_celerior_beta1": {
+      "n": 1,
+      "best": 16794,
+      "at": "2026-07-13T13:28:00.000Z",
+      "manifest": "maps/speedrun_celerior_beta1/manifest.json"
     },
     "speedrun_1000fps_battle": {
       "n": 10,
