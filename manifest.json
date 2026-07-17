@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-07-13T18:00:00.558Z",
+  "updatedAt": "2026-07-17T18:00:13.515Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -230,6 +230,12 @@
       "best": 9347,
       "at": "2025-11-19T18:31:58Z",
       "manifest": "maps/speedrun_faded_bronze/manifest.json"
+    },
+    "speedrun_outside_estonia2": {
+      "n": 1,
+      "best": 15453,
+      "at": "2026-07-17T15:43:10.000Z",
+      "manifest": "maps/speedrun_outside_estonia2/manifest.json"
     },
     "speedrun_sudip": {
       "n": 1,
