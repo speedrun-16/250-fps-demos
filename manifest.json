@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-07-17T18:00:13.515Z",
+  "updatedAt": "2026-07-18T18:00:01.535Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -28,9 +28,9 @@
       "manifest": "maps/speedrun_Domination/manifest.json"
     },
     "speedrun_pupsik": {
-      "n": 2,
-      "best": 7610,
-      "at": "2026-06-07T12:22:15Z",
+      "n": 3,
+      "best": 7594,
+      "at": "2026-07-18T14:46:33.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
     "speedrun_joker1": {
@@ -173,8 +173,8 @@
     },
     "speedrun_celerior_beta1": {
       "n": 1,
-      "best": 16794,
-      "at": "2026-07-13T13:28:00.000Z",
+      "best": 16544,
+      "at": "2026-07-18T15:24:35.000Z",
       "manifest": "maps/speedrun_celerior_beta1/manifest.json"
     },
     "speedrun_1000fps_battle": {
