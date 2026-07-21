@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-07-18T18:00:01.535Z",
+  "updatedAt": "2026-07-21T00:00:00.520Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -179,8 +179,8 @@
     },
     "speedrun_1000fps_battle": {
       "n": 10,
-      "best": 8290,
-      "at": "2026-07-11T08:29:50.000Z",
+      "best": 8286,
+      "at": "2026-07-20T23:16:48.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "deathrun_greenworld_v1": {
