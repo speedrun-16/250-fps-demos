@@ -7,8 +7,8 @@ Map-level archive directory for the 250 FPS category.
 | Metric | Value |
 | :-- | --: |
 | Maps | 68 |
-| Archived PBs | 100 |
-| Latest Update | 2026-07-20 |
+| Archived PBs | 101 |
+| Latest Update | 2026-07-21 |
 
 ## Structure
 
