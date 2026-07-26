@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-07-22T00:00:03.953Z",
+  "updatedAt": "2026-07-26T00:00:08.079Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -260,6 +260,12 @@
       "best": 15521,
       "at": "2026-07-02T21:26:35.000Z",
       "manifest": "maps/speedrun_vantara/manifest.json"
+    },
+    "speedrun_furame": {
+      "n": 1,
+      "best": 16563,
+      "at": "2026-07-25T21:48:04.000Z",
+      "manifest": "maps/speedrun_furame/manifest.json"
     },
     "speedrun_sqn": {
       "n": 1,
