@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-07-26T00:00:08.079Z",
+  "updatedAt": "2026-07-28T00:00:12.993Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -272,6 +272,12 @@
       "best": 23238,
       "at": "2025-11-15T13:56:32Z",
       "manifest": "maps/speedrun_sqn/manifest.json"
+    },
+    "speedrun_small_white": {
+      "n": 1,
+      "best": 8905,
+      "at": "2026-07-27T20:08:12.000Z",
+      "manifest": "maps/speedrun_small_white/manifest.json"
     },
     "speedrun_utug2": {
       "n": 1,
