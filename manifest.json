@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-08-15T00:00:10.683Z",
+  "updatedAt": "2026-10-11T18:00:00.917Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -140,6 +140,12 @@
       "best": 11471,
       "at": "2026-02-01T15:28:02Z",
       "manifest": "maps/speedrun_record/manifest.json"
+    },
+    "speedrun_df_r7_brigi": {
+      "n": 1,
+      "best": 14012,
+      "at": "2026-10-11T14:40:11.000Z",
+      "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
     },
     "speedrun_katozlandia": {
       "n": 1,

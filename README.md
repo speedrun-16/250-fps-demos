@@ -6,9 +6,9 @@ Personal best demo archive for the 250 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 70 |
-| Archived PBs | 104 |
-| Latest Update | 2026-08-14 |
+| Maps | 71 |
+| Archived PBs | 105 |
+| Latest Update | 2026-10-11 |
 
 ## Structure
 
