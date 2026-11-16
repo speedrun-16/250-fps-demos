@@ -1,7 +1,7 @@
 {
   "category": 4,
   "categoryName": "250 FPS",
-  "updatedAt": "2026-10-11T18:00:00.917Z",
+  "updatedAt": "2026-11-16T18:00:07.946Z",
   "maps": {
     "speedrun_blue": {
       "n": 2,
@@ -362,6 +362,12 @@
       "best": 13303,
       "at": "2026-01-29T13:31:26Z",
       "manifest": "maps/speedrun_ramp-master_ex/manifest.json"
+    },
+    "speedrun_df_kool_mini7": {
+      "n": 1,
+      "best": 24284,
+      "at": "2026-11-16T16:59:59.000Z",
+      "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "speedrun_dust2_kaniel": {
       "n": 1,

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_df_kool_mini7",
+  "updatedAt": "2026-11-16T18:00:07.946Z",
+  "runs": [
+    {
+      "uid": "REWA9MU2A",
+      "rid": 98319,
+      "hash": "68aeb12b7e96f993b8cf0652dca41666c6011657ea582dac29e52230cee8cf2f",
+      "t": 24284,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-11-16T16:59:59.000Z",
+      "zip": "00024284_STEAM_0_1_87291981_20261116-165959.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_kool_mini7-20261116-#REWA9MU2A.dem",
+          "off": 76,
+          "size": 241684
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_kool_mini7-20261116-#REWA9MU2A.analysis.json",
+          "off": 241846,
+          "size": 629452
+        },
+        {
+          "type": "replay",
+          "name": "98319.replay.xz",
+          "off": 871343,
+          "size": 92264
+        }
+      ]
+    }
+  ]
+}
